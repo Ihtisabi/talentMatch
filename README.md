@@ -12,7 +12,10 @@ It enables HR or Talent Development teams to:
 - Evaluate individual employee **match rates** to the benchmark.  
 - Combine competency, psychometric, and behavioral indicators into a unified **success score**.
 
-See the report here: ([Match Intelligent Report](https://www.canva.com/design/DAG2rlHLAjs/cnant7TVtHym_3OiCf9m6w/edit?utm_content=DAG2rlHLAjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+**See the report here: ([Talent Match Intelligent Report](https://www.canva.com/design/DAG2rlHLAjs/cnant7TVtHym_3OiCf9m6w/edit?utm_content=DAG2rlHLAjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))**
+
+**Try talent matching here: ([Talent Match Intelligent](https://talentmatching.streamlit.app/))**
+
 ---
 
 ## Repository Structure
